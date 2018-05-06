@@ -52,4 +52,24 @@ Blind Source Separation of audio signals using independent component analysis
   \BibEmph{{Advances in Neural Information Processing Systems}}. ---
 \newblock 2012.
 
+\bibitem{[Grais}
+\selectlanguageifdefined{english}
+\BibEmph{Grais,~Emad~M.} {Deep neural networks for single channel source
+  separation}~/ Emad~M.~Grais, Mehmet~Umut~Sen, Hakan~Erdogan~//
+  \BibEmph{{Speech and Signal Processing}}. ---
+\newblock 2014.
+
+\bibitem{[Chandna}
+\selectlanguageifdefined{english}
+\BibEmph{Chandna,~Pritish}. {Audio Source Separation Using Deep Neural
+  Networks}~/ Pritish~Chandna~// \BibEmph{TESI DOCTORAL UPF}. ---
+\newblock 2016.
+
+\bibitem{[Huang}
+\selectlanguageifdefined{english}
+{Singing-Voice Separation From Monaural Recordings Using Deep Recurrent Neural
+  Networks}~/ Po-Sen~Huang, Minje~Kim, Mark~Hasegawa-Johnson,
+  Paris~Smaragdis~// \BibEmph{Ismir}. ---
+\newblock 2014.
+
 \end{thebibliography}

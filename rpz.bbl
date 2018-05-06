@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{Bikkenin}
+\selectlanguageifdefined{english}
+\BibEmph{Биккенин,~Р.~Р.} Теория электрической
+  связи~/ Р.~Р.~Биккенин, М.~Н.~Чесноков. ---
+\newblock Издательский центр <<Академия>>, 2010. ---
+\newblock P.~336.
+
+\bibitem{Lopez}
+\selectlanguageifdefined{english}
+Blind Source Separation of audio signals using independent component analysis
+  and wavelets~/ P.~Lopez, H.~Molina~Lozano, F.~Sanchez, L.~N.~Oliva~Moreno~//
+  \BibEmph{21st International Conference on Electrical Communications and
+  Computers}. ---
+\newblock 2011.
+
+\bibitem{Dadula}
+\selectlanguageifdefined{english}
+\BibEmph{Dadula,~C.~P.} A genetic algorithm for blind source separation based
+  on independent component analysis~/ C.~P.~Dadula, E.~P~Dadios~//
+  \BibEmph{International Conference on Humanoid, Nanotechnology, Informa- tion
+  Technology, Communication and Control, Environment and Management}. ---
+\newblock 2014.
+
+\bibitem{DLee}
+\selectlanguageifdefined{english}
+\BibEmph{Lee,~D.~D.} Algorithms for Non-negative Matrix Factorization~/
+  D.~D.~Lee, Seung~H.~S.~// \BibEmph{Advances in Neural Information Processing
+  Systems}. ---
+\newblock 2001.
+
+\bibitem{ozerov}
+\selectlanguageifdefined{english}
+\BibEmph{Ozerov,~Alexey}. {A General Flexible Framework for the Handling of
+  Prior Information in Audio Source Separation}~/ Alexey~Ozerov,
+  Emmanuel~Vincent, Fr{\'e}d{\'e}ric~Bimbot~// \BibEmph{{IEEE Transactions on
+  Audio, Speech and Language Processing}}. ---
+\newblock 2012.
+
+\bibitem{[Krizhevsky}
+\selectlanguageifdefined{english}
+\BibEmph{Krizhevsky,~Alexey}. {ImageNet Classification with Deep Convolutional
+  Neural Networks}~/ Alexey~Krizhevsky, Ilya~Sutskever, Geoffrey~E.~Bimbot~//
+  \BibEmph{{Advances in Neural Information Processing Systems}}. ---
+\newblock 2012.
+
+\end{thebibliography}

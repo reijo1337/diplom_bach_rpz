@@ -3,49 +3,55 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: rpz.aux
 A level-1 auxiliary file: 00-abstract.aux
 A level-1 auxiliary file: 10-defines.aux
+A level-1 auxiliary file: 11-abbrev.aux
 A level-1 auxiliary file: 12-intro.aux
 A level-1 auxiliary file: 20-analysis.aux
 A level-1 auxiliary file: 81-biblio.aux
 The style file: gost780u.bst
 Database file #1: rpz.bib
-You've used 9 entries,
+Warning--entry type for "wav" isn't style-file defined
+--line 33 of file rpz.bib
+Warning--empty journal in Grossberg
+Warning--empty journal in Hubel
+You've used 15 entries,
             2674 wiz_defined-function locations,
-            696 strings with 6874 characters,
-and the built_in function-call counts, 2384 in all, are:
-= -- 303
-> -- 96
-< -- 9
-+ -- 33
-- -- 24
-* -- 115
-:= -- 293
-add.period$ -- 26
-call.type$ -- 9
+            732 strings with 8069 characters,
+and the built_in function-call counts, 3900 in all, are:
+= -- 501
+> -- 145
+< -- 15
++ -- 51
+- -- 36
+* -- 192
+:= -- 466
+add.period$ -- 45
+call.type$ -- 15
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 9
-duplicate$ -- 120
-empty$ -- 248
-format.name$ -- 31
-if$ -- 632
+cite$ -- 17
+duplicate$ -- 199
+empty$ -- 407
+format.name$ -- 48
+if$ -- 1037
 int.to.chr$ -- 0
-int.to.str$ -- 9
+int.to.str$ -- 15
 missing$ -- 0
-newline$ -- 56
-num.names$ -- 18
-pop$ -- 71
+newline$ -- 87
+num.names$ -- 28
+pop$ -- 116
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 53
+skip$ -- 87
 stack$ -- 0
-substring$ -- 6
-swap$ -- 66
-text.length$ -- 0
+substring$ -- 26
+swap$ -- 110
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
-while$ -- 10
-width$ -- 10
-write$ -- 136
+warning$ -- 2
+while$ -- 17
+width$ -- 17
+write$ -- 219
+(There were 3 warnings)

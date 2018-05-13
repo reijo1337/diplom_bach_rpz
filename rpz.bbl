@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -7,12 +7,39 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{[Chandna}
+\selectlanguageifdefined{english}
+\BibEmph{Chandna,~Pritish}. {Audio Source Separation Using Deep Neural
+  Networks}~/ Pritish~Chandna~// \BibEmph{TESI DOCTORAL UPF}. ---
+\newblock 2016.
+
 \bibitem{Bikkenin}
 \selectlanguageifdefined{english}
 \BibEmph{Биккенин,~Р.~Р.} Теория электрической
   связи~/ Р.~Р.~Биккенин, М.~Н.~Чесноков. ---
 \newblock Издательский центр <<Академия>>, 2010. ---
 \newblock P.~336.
+
+\bibitem{wav}
+\selectlanguageifdefined{english}
+Multiple channel audio data and WAVE files. \BibUrl{
+  https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653308(v=vs.85)}.
+
+\bibitem{mansour:hal-00802445}
+\selectlanguageifdefined{english}
+\BibEmph{Mansour,~Ali}. {Blind Separation of Sources: Methods, Assumptions and
+  Applications}~/ Ali~Mansour, Barros~Alan~Kardec, Ohnishi~Noboru~//
+  \BibEmph{{IEICE Transactions on Fundamentals of Electronics, Communications
+  and Computer Sciences}}. ---
+\newblock 2000.
+
+\bibitem{Miron}
+\selectlanguageifdefined{english}
+\BibEmph{Miron,~Marius}. Improving Score-Informed Source Separation for
+  Classical Music Through Note Refinement~/ Marius~Miron, Julio Jos´e
+  Carabias-Orti~Carabias-Orti, Jordi~Janer~// \BibEmph{16th International
+  Society for Music Information Retrieval (ISMIR) Conference}. ---
+\newblock 2015.
 
 \bibitem{Lopez}
 \selectlanguageifdefined{english}
@@ -59,17 +86,33 @@ Blind Source Separation of audio signals using independent component analysis
   \BibEmph{{Speech and Signal Processing}}. ---
 \newblock 2014.
 
-\bibitem{[Chandna}
+\bibitem{Grossberg}
 \selectlanguageifdefined{english}
-\BibEmph{Chandna,~Pritish}. {Audio Source Separation Using Deep Neural
-  Networks}~/ Pritish~Chandna~// \BibEmph{TESI DOCTORAL UPF}. ---
-\newblock 2016.
+\BibEmph{Grossberg,~Stephen}. Nonlinear neural networks: Principle, mechanisms,
+  and architectures~/ Stephen~Grossberg. ---
+\newblock 1988. --- 12. ---
+\newblock Vol.~1. ---
+\newblock Pp.~17--61.
 
-\bibitem{[Huang}
+\bibitem{Uhlich}
 \selectlanguageifdefined{english}
-{Singing-Voice Separation From Monaural Recordings Using Deep Recurrent Neural
-  Networks}~/ Po-Sen~Huang, Minje~Kim, Mark~Hasegawa-Johnson,
-  Paris~Smaragdis~// \BibEmph{Ismir}. ---
-\newblock 2014.
+\BibEmph{Uhlich,~Stefan}. Deep neural network based instrument extraction from
+  music~/ Stefan~Uhlich, Franck~Giron, Yuki~Mitsufuji~// \BibEmph{ICASSP, IEEE
+  International Conference on Acoustics, Speech and Signal Processing -
+  Proceedings}. ---
+\newblock 2015.
+
+\bibitem{Hubel}
+\selectlanguageifdefined{english}
+\BibEmph{Hubel,~D.~H.} Receptive fields and functional architecture of monkey
+  striate cortex~/ D.~H.~Hubel, T.~N.~Wiesel. ---
+\newblock 1968.
+
+\bibitem{Vincent}
+\selectlanguageifdefined{english}
+Performance measurement in blind audio source separation~/ Emmanuel~Vincent,
+  Rémi~Gribonval, C.~Fevotte, C~Févotte~// \BibEmph{IEEE Transactions on
+  Audio, Speech and Language Processing}. ---
+\newblock 2006.
 
 \end{thebibliography}

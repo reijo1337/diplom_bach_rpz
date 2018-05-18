@@ -20,11 +20,6 @@
 \newblock Издательский центр <<Академия>>, 2010. ---
 \newblock P.~336.
 
-\bibitem{wav}
-\selectlanguageifdefined{english}
-Multiple channel audio data and WAVE files. \BibUrl{
-  https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653308(v=vs.85)}.
-
 \bibitem{mansour:hal-00802445}
 \selectlanguageifdefined{english}
 \BibEmph{Mansour,~Ali}. {Blind Separation of Sources: Methods, Assumptions and
@@ -32,14 +27,6 @@ Multiple channel audio data and WAVE files. \BibUrl{
   \BibEmph{{IEICE Transactions on Fundamentals of Electronics, Communications
   and Computer Sciences}}. ---
 \newblock 2000.
-
-\bibitem{Miron}
-\selectlanguageifdefined{english}
-\BibEmph{Miron,~Marius}. Improving Score-Informed Source Separation for
-  Classical Music Through Note Refinement~/ Marius~Miron, Julio Jos´e
-  Carabias-Orti~Carabias-Orti, Jordi~Janer~// \BibEmph{16th International
-  Society for Music Information Retrieval (ISMIR) Conference}. ---
-\newblock 2015.
 
 \bibitem{Lopez}
 \selectlanguageifdefined{english}
@@ -56,6 +43,14 @@ Blind Source Separation of audio signals using independent component analysis
   \BibEmph{International Conference on Humanoid, Nanotechnology, Informa- tion
   Technology, Communication and Control, Environment and Management}. ---
 \newblock 2014.
+
+\bibitem{Miron}
+\selectlanguageifdefined{english}
+\BibEmph{Miron,~Marius}. Improving Score-Informed Source Separation for
+  Classical Music Through Note Refinement~/ Marius~Miron, Julio Jos´e
+  Carabias-Orti~Carabias-Orti, Jordi~Janer~// \BibEmph{16th International
+  Society for Music Information Retrieval (ISMIR) Conference}. ---
+\newblock 2015.
 
 \bibitem{DLee}
 \selectlanguageifdefined{english}
@@ -114,5 +109,10 @@ Performance measurement in blind audio source separation~/ Emmanuel~Vincent,
   Rémi~Gribonval, C.~Fevotte, C~Févotte~// \BibEmph{IEEE Transactions on
   Audio, Speech and Language Processing}. ---
 \newblock 2006.
+
+\bibitem{wavv}
+\selectlanguageifdefined{english}
+Multiple channel audio data and WAVE files. \BibUrl{
+  https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653308(v=vs.85)}.
 
 \end{thebibliography}

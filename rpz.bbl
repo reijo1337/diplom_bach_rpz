@@ -7,6 +7,38 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{MIR}
+\selectlanguageifdefined{english}
+\BibEmph{Klapuri,~A.} Signal Processing Methods for Music Transcription~/
+  A.~Klapuri, M.~Davy~// \BibEmph{{Tampere}}. ---
+\newblock 2004.
+
+\bibitem{Downie}
+\selectlanguageifdefined{english}
+\BibEmph{Downie,~J.~S.} Music Information Retrieval~/ J.~S.~Downie~//
+  \BibEmph{{Annual Review of Information Science and Technology}}. ---
+\newblock 2003.
+
+\bibitem{Maas}
+\selectlanguageifdefined{english}
+Recurrent Neural Networks for Noise Reduction in Robust ASR~/ Aandrew~L.~Maas,
+  Quoc~V.~Le, Tyler~M.~O'Neil et~al.~// \BibEmph{INTERSPEECH}. ---
+\newblock 2012.
+
+\bibitem{[Huang}
+\selectlanguageifdefined{english}
+{Singing-Voice Separation From Monaural Recordings Using Deep Recurrent Neural
+  Networks}~/ Po-Sen~Huang, Minje~Kim, Mark~Hasegawa-Johnson,
+  Paris~Smaragdis~// \BibEmph{Ismir}. ---
+\newblock 2014.
+
+\bibitem{Hsu}
+\selectlanguageifdefined{english}
+\BibEmph{Hsu,~C.-L.} On the improvement of singing voice separation for
+  monaural recordings using the MIR-1K dataset.~/ C.-L.~Hsu, J.-S.R.~Jang~//
+  \BibEmph{IEEE Transactions on Audio, Speech, and Language Processing}. ---
+\newblock 2010.
+
 \bibitem{[Chandna}
 \selectlanguageifdefined{english}
 \BibEmph{Chandna,~Pritish}. {Audio Source Separation Using Deep Neural
@@ -109,6 +141,11 @@ Performance measurement in blind audio source separation~/ Emmanuel~Vincent,
   Rémi~Gribonval, C.~Fevotte, C~Févotte~// \BibEmph{IEEE Transactions on
   Audio, Speech and Language Processing}. ---
 \newblock 2006.
+
+\bibitem{DSD100}
+\selectlanguageifdefined{english}
+Professionally-produced music recordings. \BibUrl{
+  https://sisec.inria.fr/sisec-2016/2016-professionally-produced-music-recordings/}.
 
 \bibitem{wavv}
 \selectlanguageifdefined{english}

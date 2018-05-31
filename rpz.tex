@@ -13,11 +13,15 @@
 \usepackage{local-minted}
 \fi
 
+\usepackage{pdfpages}
+
 % Полезные макросы листингов.
 \include{macros.inc}
 
 \begin{document}
 
+\includepdf[pages=-]{title.pdf}
+\setcounter{page}{5}
 \frontmatter % выключает нумерацию ВСЕГО; здесь начинаются ненумерованные главы: реферат, введение, глоссарий, сокращения и прочее.
 
 % Команды \breakingbeforechapters и \nonbreakingbeforechapters
@@ -26,14 +30,7 @@
 
 % \nobreakingbeforechapters
 % \breakingbeforechapters
-титульник
-\newpage
-тз
-\newpage
-тз
-\newpage
-план
-\newpage
+
 \include{00-abstract}
 
 \tableofcontents
@@ -48,12 +45,12 @@
 \include{20-analysis}
 \include{30-design}
 \include{40-impl}
-%\include{50-research}
+\include{50-research}
 
 \backmatter %% Здесь заканчивается нумерованная часть документа и начинаются ссылки и
             %% заключение
 
-%\include{80-conclusion}
+\include{80-conclusion}
 
 \include{81-biblio}
 

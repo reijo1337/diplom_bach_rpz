@@ -9,19 +9,20 @@ A level-1 auxiliary file: 20-analysis.aux
 A level-1 auxiliary file: 30-design.aux
 A level-1 auxiliary file: 40-impl.aux
 A level-1 auxiliary file: 50-research.aux
+A level-1 auxiliary file: 80-conclusion.aux
 A level-1 auxiliary file: 81-biblio.aux
 The style file: gost780u.bst
 Database file #1: rpz.bib
-Warning--entry type for "wavv" isn't style-file defined
+Warning--entry type for "wav" isn't style-file defined
 --line 161 of file rpz.bib
 Warning--entry type for "DSD100" isn't style-file defined
 --line 167 of file rpz.bib
-Warning--I didn't find a database entry for "wav"
+Warning--I didn't find a database entry for "wavv"
 Warning--empty journal in Grossberg
 Warning--empty journal in Hubel
 You've used 21 entries,
             2674 wiz_defined-function locations,
-            768 strings with 9016 characters,
+            769 strings with 9033 characters,
 and the built_in function-call counts, 5231 in all, are:
 = -- 670
 > -- 198

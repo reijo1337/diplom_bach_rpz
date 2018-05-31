@@ -52,6 +52,11 @@ Recurrent Neural Networks for Noise Reduction in Robust ASR~/ Aandrew~L.~Maas,
 \newblock Издательский центр <<Академия>>, 2010. ---
 \newblock P.~336.
 
+\bibitem{wav}
+\selectlanguageifdefined{english}
+Multiple channel audio data and WAVE files. \BibUrl{
+  https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653308(v=vs.85)}.
+
 \bibitem{mansour:hal-00802445}
 \selectlanguageifdefined{english}
 \BibEmph{Mansour,~Ali}. {Blind Separation of Sources: Methods, Assumptions and
@@ -146,10 +151,5 @@ Performance measurement in blind audio source separation~/ Emmanuel~Vincent,
 \selectlanguageifdefined{english}
 Professionally-produced music recordings. \BibUrl{
   https://sisec.inria.fr/sisec-2016/2016-professionally-produced-music-recordings/}.
-
-\bibitem{wavv}
-\selectlanguageifdefined{english}
-Multiple channel audio data and WAVE files. \BibUrl{
-  https://docs.microsoft.com/en-us/previous-versions/windows/hardware/design/dn653308(v=vs.85)}.
 
 \end{thebibliography}

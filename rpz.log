@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.6)  1 JUN 2018 01:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.6)  5 JUN 2018 12:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1643,11 +1643,11 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 4.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 4.
-<inc/img/idef.PNG, id=646, 691.58376pt x 1391.1975pt>
-File: inc/img/idef.PNG Graphic file (type png)
-<use inc/img/idef.PNG>
-Package pdftex.def Info: inc/img/idef.PNG  used on input line 18.
-(pdftex.def)             Requested size: 290.22107pt x 583.81073pt.
+<inc/img/idef.png, id=646, 681.54625pt x 1393.205pt>
+File: inc/img/idef.png Graphic file (type png)
+<use inc/img/idef.png>
+Package pdftex.def Info: inc/img/idef.png  used on input line 18.
+(pdftex.def)             Requested size: 290.22107pt x 593.2629pt.
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 23.
 Package babel Info: Redefining russian shorthand "~
@@ -1677,7 +1677,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 59.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 59.
- [37 <./inc/img/idef.PNG>]
+ [37 <./inc/img/idef.png>]
 Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 68.
 Package babel Info: Redefining russian shorthand "~
@@ -1695,7 +1695,7 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 90.
  [38]
-<inc/img/drnn-design.png, id=674, 680.5425pt x 790.955pt>
+<inc/img/drnn-design.png, id=673, 680.5425pt x 790.955pt>
 File: inc/img/drnn-design.png Graphic file (type png)
 <use inc/img/drnn-design.png>
 Package pdftex.def Info: inc/img/drnn-design.png  used on input line 141.
@@ -1832,12 +1832,12 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 71.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 71.
-<inc/img/train.png, id=723, 764.8575pt x 458.46281pt>
+<inc/img/train.png, id=722, 764.8575pt x 458.46281pt>
 File: inc/img/train.png Graphic file (type png)
 <use inc/img/train.png>
 Package pdftex.def Info: inc/img/train.png  used on input line 77.
 (pdftex.def)             Requested size: 483.69687pt x 289.9314pt.
-<inc/img/run.png, id=724, 819.8128pt x 530.73282pt>
+<inc/img/run.png, id=723, 819.8128pt x 530.73282pt>
 File: inc/img/run.png Graphic file (type png)
 <use inc/img/run.png>
 Package pdftex.def Info: inc/img/run.png  used on input line 84.
@@ -1990,7 +1990,7 @@ Overfull \hbox (42.67912pt too wide) detected at line 312
 [][] 
  []
 
-<inc/img/tensorboard-main.png, id=806, 984.67876pt x 882.29625pt>
+<inc/img/tensorboard-main.png, id=805, 984.67876pt x 882.29625pt>
 File: inc/img/tensorboard-main.png Graphic file (type png)
 <use inc/img/tensorboard-main.png>
 Package pdftex.def Info: inc/img/tensorboard-main.png  used on input line 319.
@@ -2053,7 +2053,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 355.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 355.
-<inc/img/prog-main.png, id=833, 642.4pt x 361.35pt>
+<inc/img/prog-main.png, id=832, 642.4pt x 361.35pt>
 File: inc/img/prog-main.png Graphic file (type png)
 <use inc/img/prog-main.png>
 Package pdftex.def Info: inc/img/prog-main.png  used on input line 365.
@@ -2073,7 +2073,7 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 378.
 [55 <./inc/img/prog-main.png>]
-<inc/img/complete-window.png, id=845, 642.4pt x 361.35pt>
+<inc/img/complete-window.png, id=844, 642.4pt x 361.35pt>
 File: inc/img/complete-window.png Graphic file (type png)
 <use inc/img/complete-window.png>
 Package pdftex.def Info: inc/img/complete-window.png  used on input line 388.
@@ -2117,7 +2117,7 @@ Package babel Info: Redefining russian shorthand "|
 (babel)             in language  on input line 8.
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 8.
-<inc/img/loss-dsd.png, id=862, 1429.34pt x 388.45125pt>
+<inc/img/loss-dsd.png, id=861, 1429.34pt x 388.45125pt>
 File: inc/img/loss-dsd.png Graphic file (type png)
 <use inc/img/loss-dsd.png>
 Package pdftex.def Info: inc/img/loss-dsd.png  used on input line 14.
@@ -2156,22 +2156,22 @@ Package babel Info: Redefining russian shorthand "|
 Package babel Info: Redefining russian shorthand "~
 (babel)             in language  on input line 71.
  [59]
-<inc/img/spec-voice-male.png, id=879, 766.865pt x 1081.03876pt>
+<inc/img/spec-voice-male.png, id=878, 766.865pt x 1081.03876pt>
 File: inc/img/spec-voice-male.png Graphic file (type png)
 <use inc/img/spec-voice-male.png>
 Package pdftex.def Info: inc/img/spec-voice-male.png  used on input line 77.
 (pdftex.def)             Requested size: 435.32422pt x 613.67471pt.
-<inc/img/spec-music-male.png, id=880, 766.865pt x 1073.00874pt>
+<inc/img/spec-music-male.png, id=879, 766.865pt x 1073.00874pt>
 File: inc/img/spec-music-male.png Graphic file (type png)
 <use inc/img/spec-music-male.png>
 Package pdftex.def Info: inc/img/spec-music-male.png  used on input line 84.
 (pdftex.def)             Requested size: 435.32422pt x 609.1163pt.
-<inc/img/spec-voice-female.png, id=881, 768.8725pt x 1046.91125pt>
+<inc/img/spec-voice-female.png, id=880, 768.8725pt x 1046.91125pt>
 File: inc/img/spec-voice-female.png Graphic file (type png)
 <use inc/img/spec-voice-female.png>
 Package pdftex.def Info: inc/img/spec-voice-female.png  used on input line 91.
 (pdftex.def)             Requested size: 435.32422pt x 592.75198pt.
-<inc/img/spec-music-female.png, id=882, 768.8725pt x 1046.91125pt>
+<inc/img/spec-music-female.png, id=881, 768.8725pt x 1046.91125pt>
 File: inc/img/spec-music-female.png Graphic file (type png)
 <use inc/img/spec-music-female.png>
 Package pdftex.def Info: inc/img/spec-music-female.png  used on input line 98.
@@ -2311,8 +2311,8 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 28629 strings out of 492982
- 483486 string characters out of 6134897
+ 28622 strings out of 492982
+ 483455 string characters out of 6134897
  599177 words of memory out of 5000000
  31242 multiletter control sequences out of 15000+600000
  14706 words of font info for 40 fonts, out of 8000000 for 9000
@@ -2333,9 +2333,9 @@ r/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr
 /share/texmf/fonts/type1/public/cm-super/sfti1000.pfb></usr/share/texmf/fonts/t
 ype1/public/cm-super/sfti1440.pfb></usr/share/texmf/fonts/type1/public/cm-super
 /sftt1440.pfb>
-Output written on rpz.pdf (67 pages, 5883034 bytes).
+Output written on rpz.pdf (67 pages, 5885596 bytes).
 PDF statistics:
- 1055 PDF objects out of 1200 (max. 8388607)
+ 1054 PDF objects out of 1200 (max. 8388607)
  884 compressed objects within 9 object streams
  314 named destinations out of 1000 (max. 500000)
  659 words of extra memory for PDF output out of 10000 (max. 10000000)
